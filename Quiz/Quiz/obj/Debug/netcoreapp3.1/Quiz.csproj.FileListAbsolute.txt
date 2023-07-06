@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.genruntimeconfig.cache
